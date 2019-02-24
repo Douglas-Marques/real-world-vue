@@ -21,16 +21,16 @@ export default new Vuex.Store({
     event: {}
   },
   mutations: {
-    ADD_EVENT({ state }, event) {
+    ADD_EVENT(state, event) {
       state.events.push(event)
     },
-    SET_EVENTS({ state }, events) {
+    SET_EVENTS(state, events) {
       state.events = events
     },
-    SET_EVENTS_TOTAL({ state }, eventsTotal) {
+    SET_EVENTS_TOTAL(state, eventsTotal) {
       state.eventsTotal = eventsTotal
     },
-    SET_EVENT({ state }, event) {
+    SET_EVENT(state, event) {
       state.event = event
     }
   },
