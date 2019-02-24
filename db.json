@@ -44,6 +44,42 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 784948,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Working?",
+      "description": "",
+      "location": "",
+      "date": "2019-02-15T22:57:00.000Z",
+      "time": "19:00",
+      "attendees": []
+    },
+    {
+      "id": 604982,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Planting Trees",
+      "description": "We're going to plant trees",
+      "location": "The Forest",
+      "date": "2019-03-06T00:02:00.000Z",
+      "time": "6:00",
+      "attendees": []
     }
   ]
 }
