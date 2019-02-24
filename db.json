@@ -249,6 +249,24 @@
       "date": "2019-02-24T19:43:00.000Z",
       "time": "17:00",
       "attendees": []
+    },
+    {
+      "id": 773957,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "Housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "No stop the party",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
